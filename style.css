@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(207, 177, 147);
+}
+h1{
+    font-family: "Croissant One", cursive;
+    color: rgb(255, 246, 234);
+    text-shadow: 5px 0 rgba(92, 92, 92, 0.499);
+    font-size: 8rem;
+    margin: 30px;
+}
+p{
+    font-size: 2rem;
+    font-family: "Croissant One", curisve;
+    color: rgb(251, 250, 247);
+    text-shadow: 2px 0 rgba(82, 82, 81, 0.44);
+}
+img{
+    width: 80%;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 80%;
+}
+footer{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 0 rgba(116, 113, 113, 0.499);
+    font-family: "Croissant One", curisve;
+    text-align: center;
+    margin-top: 90px;
+}
